@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Antheslll
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me on IG @anth.liem
+- 📫 How to reach me on IG @anthonylog.id
 
 
 <!---
