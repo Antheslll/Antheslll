@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Antheslll
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Web App Development
+- 🌱 I’m currently learn to be a Full-Stack Developer
 - 📫 How to reach me on IG @anthonylog.id
 
 
